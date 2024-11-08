@@ -12,7 +12,7 @@ This is a Python project that requires Python 3.11. Follow the steps below to se
 
 **طريقة إلقاء** البيت الشعري عن طريق تقسيم البيت تقسيما **عروضيا** 
 
-
+![Project demo](./images/Demo.gif)
 ## Prerequisites
 
 - Python 3.11 or later
