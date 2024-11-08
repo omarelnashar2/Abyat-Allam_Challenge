@@ -2,6 +2,17 @@
 
 This is a Python project that requires Python 3.11. Follow the steps below to set up the environment and run the application.
 
+## Description
+
+**تحليل الأبيات الشعرية** من حيث البحر، القافية، والعصر، الموضوع
+
+**توليد** الأبيات والقصائد محددة الأهداف عن طريق (الفكرة، البحر، طول القصيدة)
+
+**مساعدة** الشاعر عن طريق التدرب مع النموذج على **الإجازة الشعرية**
+
+**طريقة إلقاء** البيت الشعري عن طريق تقسيم البيت تقسيما **عروضيا** 
+
+
 ## Prerequisites
 
 - Python 3.11 or later
