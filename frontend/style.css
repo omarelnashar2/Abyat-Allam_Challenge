@@ -1,0 +1,28 @@
+body {
+background-color: radial-gradient(circle at top center, #893c86, #7c2c5c 40%);
+}
+
+#header_align{
+text-align: center;
+height: 40px;
+}
+
+#label_align{
+text-align: right;
+}
+
+#row{
+border: 1px solid;
+border-radius: 5px;
+border-color: #893c86;
+}
+
+#radio{
+border: 1px solid;
+border-radius: 5px;
+border-color: #893c86;
+}
+
+footer {
+visibility: hidden;
+}
