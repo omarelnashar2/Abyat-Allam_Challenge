@@ -73,18 +73,20 @@ Make sure to replace the values with your actual configuration.
 Once everything is set up, you can run the application using the following command:
 
 ```bash
-python app.py```
+python app.py
+```
 This will start the application. Ensure that any necessary services (e.g., a database or web server) are running if required by the project.
 
 ### Additional Information
 If you need to deactivate the virtual environment, run:
 
 ```bash
-deactivate```
+deactivate
+```
 
 To update your dependencies, modify the requirements.txt file and run:
 ```bash
-pip install -r requirements.txt```
-
+pip install -r requirements.txt
+```
 ## License
 Include licensing information here (MIT License).
