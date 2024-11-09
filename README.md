@@ -1,6 +1,4 @@
-# Python Project
-
-This is a Python project that requires Python 3.11. Follow the steps below to set up the environment and run the application.
+# Abyat
 
 ## Description
 
@@ -11,8 +9,11 @@ This is a Python project that requires Python 3.11. Follow the steps below to se
 **مساعدة** الشاعر عن طريق التدرب مع النموذج على **الإجازة الشعرية**
 
 **طريقة إلقاء** البيت الشعري عن طريق تقسيم البيت تقسيما **عروضيا** 
-
+## Demo
 ![Project demo](./images/Demo.gif)
+
+
+This is a Python project that requires Python 3.11. Follow the steps below to set up the environment and run the application.
 ## Prerequisites
 
 - Python 3.11 or later
